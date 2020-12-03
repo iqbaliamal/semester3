@@ -1,0 +1,8 @@
+1. Mengerjakan yang ada di link (https://drive.google.com/file/d/1VLZGEQESKYsSV1qy4J_HjC4sJSaQi7sd/view)
+2. Menambahkan session
+3. Merubah sintax yang awalnya pemanggilan username password langsung menjadi pemanggilan data dari database.
+4. Membuat Laporan dari Login yang sudah terhubungkan dengan database (Laporan berupa penjelasan sintax dan hasil program)
+5. Upload pada repository GITHUB masing-masing terakhir pengumpulan hari ini pukul 11:55 PM
+
+Note :
+Bagi yang sudah mengerjakaan saat praktikum blok untuk login / session, silahkan menambahkan yang bagian database saja.
